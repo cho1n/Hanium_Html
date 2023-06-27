@@ -1,0 +1,131 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.Frame {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 56.26%;
+  overflow:hidden;
+}
+.Profile_Img {
+  width: 51px;
+  height: 51px;
+  background: url("../images/v156_213.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1px;
+  left: 1204px;
+  overflow: hidden;
+}
+.Profile_name {
+  width: 244px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 13px;
+  left: 1259px;
+  font-family: Exo 2;
+  font-weight: Regular;
+  font-size: 22px;
+  opacity: 1;
+  text-align: left;
+}
+.Button_home {
+  width: 201px;
+  height: 49px;
+  background-color: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  bottom: 5%;
+  left: 40%;
+  transform: translate(-50%, -50%);
+  font-family: Inter;
+  font-weight: Semi Bold;
+  font-size: 32px;
+  opacity: 1;
+  text-align: center;
+  border-top-left-radius: 1000px;
+  border-top-right-radius: 1000px;
+  border-bottom-left-radius: 1000px;
+  border-bottom-right-radius: 1000px;
+  border: none;
+}
+.Button_monitoring {
+  width: 201px;
+  height: 49px;
+  background-color: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  bottom: 5%;
+  left: 60%;
+  transform: translate(-50%, -50%);
+  font-family: Inter;
+  font-weight: Semi Bold;
+  font-size: 32px;
+  opacity: 1;
+  text-align: center;
+  border-top-left-radius: 1000px;
+  border-top-right-radius: 1000px;
+  border-bottom-left-radius: 1000px;
+  border-bottom-right-radius: 1000px;
+  border: none;
+}
+.Alert_state {
+  color: url("../images/v156_220.png");
+  position: absolute;
+  color: gray;
+  font-size: 27px;
+  font-family: Inter;
+  font-weight: Semi Bold;
+  opacity: 1;
+  text-align: center;
+  bottom: 22%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.State {
+  width: 784px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  bottom: 32%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  font-family: Overlock SC;
+  font-weight: Regular;
+  font-size: 70px;
+  opacity: 1;
+  text-align: center;
+}
+.Rocket {
+  width: 203px;
+  height: 203px;
+  background: url("../images/v202_831.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 42%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.Logo {
+  width: 124px;
+  height: 46px;
+  background: url("../images/v202_839.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 5px;
+  left: 9px;
+  overflow: hidden;
+}

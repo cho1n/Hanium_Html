@@ -1,0 +1,122 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v156_223 {
+  width: 100%;
+  height: 932px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.v156_227 {
+  width: 51px;
+  height: 51px;
+  background: url("../images/v156_227.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1px;
+  left: 1204px;
+  overflow: hidden;
+}
+.v156_228 {
+  width: 244px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 13px;
+  left: 1259px;
+  font-family: Exo 2;
+  font-weight: Regular;
+  font-size: 22px;
+  opacity: 1;
+  text-align: left;
+}
+.v156_230 {
+  width: 784px;
+  color: rgba(255,7,7,1);
+  position: absolute;
+  top: 376px;
+  left: 364px;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  font-family: Overlock SC;
+  font-weight: Regular;
+  font-size: 70px;
+  opacity: 1;
+  text-align: center;
+}
+.name {
+  color: #fff;
+}
+.v156_232 {
+  width: 201px;
+  height: 49px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 734px;
+  left: 644px;
+}
+.v156_233 {
+  width: 202px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 733px;
+  left: 643px;
+  font-family: Inter;
+  font-weight: Semi Bold;
+  font-size: 32px;
+  opacity: 1;
+  text-align: center;
+}
+.v156_251 {
+  width: 672px;
+  color: rgba(106,104,104,1);
+  position: absolute;
+  top: 529px;
+  left: 416px;
+  font-family: Acme;
+  font-weight: Regular;
+  font-size: 35px;
+  opacity: 1;
+  text-align: center;
+}
+.v202_832 {
+  width: 193px;
+  height: 193px;
+  background: url("../images/v202_832.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 241px;
+  left: 848px;
+  overflow: hidden;
+}
+.v202_838 {
+  width: 124px;
+  height: 46px;
+  background: url("../images/v202_838.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 5px;
+  left: 9px;
+  overflow: hidden;
+}

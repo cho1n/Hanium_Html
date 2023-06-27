@@ -1,0 +1,52 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.Frame {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 56.26%;
+  overflow:hidden;
+}
+.githubButton {
+  width: 503px;
+  height: 108px;
+  background: url("../images/v156_159.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  bottom: 17%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  overflow: hidden;
+}
+.mainImage {
+  width: 685px;
+  height: 253px;
+  background: url("../images/v202_827.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  position: absolute;
+  top: 42%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.Logo {
+  width: 124px;
+  height: 46px;
+  background: url("../images/v202_835.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 5px;
+  left: 9px;
+  overflow: hidden;
+}
