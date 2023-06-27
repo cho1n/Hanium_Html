@@ -123,7 +123,7 @@ body {
   opacity: 1;
   text-align: left;
 }
-.v156_264 {
+.homeBlock {
   width: 201px;
   height: 49px;
   background: rgba(217,217,217,1);
@@ -168,7 +168,7 @@ body {
 .v156_268 {
   width: 50px;
   height: 50px;
-  background: rgba(255,255,255,1);
+  background: white;
   opacity: 1;
   position: absolute;
   top: 311px;
@@ -179,7 +179,7 @@ body {
 .v156_269 {
   width: 50px;
   height: 50px;
-  background: rgba(255,255,255,1);
+  background: white;
   opacity: 1;
   position: absolute;
   top: 550px;
@@ -190,7 +190,7 @@ body {
 .v156_270 {
   width: 50px;
   height: 50px;
-  background: rgba(255,255,255,1);
+  background: white;
   opacity: 1;
   position: absolute;
   top: 431px;
